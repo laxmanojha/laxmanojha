@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laxmanojha
 - 👀 I’m interested in coding and learning Data Structures and Algorithms.
 - 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on a tech project where we are working on a real world problem.
+- 💞️ I’m looking to collaborate on a tech project where we will be working on a real world problem.
 - 📫 How to reach me 
       my LinkedIn id: www.linkedin.com/in/laxman-prasad-ojha-b407b3201
 
